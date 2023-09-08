@@ -24,7 +24,7 @@ This cooking application allows you to discover and cook a wide variety of delic
 
 
 1. Clone this repository to your computer:
-```git clone https://github.com/your-name/recipe-app.git```
+```git clone https://github.com/IAmRom1/Meal_App.git```
 
 2. Navigate to the project directory:
    ```cd recipe-app```
